@@ -1,0 +1,21 @@
+{
+  "workouts": [
+    {
+      "date": "10/19/2020",
+      "heart rate": 90,
+      "weight": 60,
+      "time": 100,
+      "type": "swimming",
+      "met": 5
+    },
+    {
+      "date": "04/04/2000",
+      "heart rate": 110,
+      "weight": 65,
+      "time": 60,
+      "type": "volleyball",
+      "met": 7.5
+    }
+  ],
+  "name": "my log"
+}
