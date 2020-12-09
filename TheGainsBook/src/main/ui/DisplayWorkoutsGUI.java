@@ -44,7 +44,7 @@ public class DisplayWorkoutsGUI {
         frame.add(pic);
         pic.setVisible(true);
 
-        new WeightChart("Weight Tracker", exerciseLog);
+        // new WeightChart("Weight Tracker", exerciseLog); -> uncomment if JFreeChart is installed
     }
 
     // MODIFIES: this
